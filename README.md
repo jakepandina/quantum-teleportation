@@ -43,3 +43,10 @@ In this notebook, I simulate the full teleportation process step-by-step:
    ```bash
    git clone https://github.com/jakepandina/quantum-teleportation.git
    cd quantum-teleportation
+
+2.	Install dependencies:
+   ```bash
+   pip install qiskit numpy matplotlib
+
+3.	Open the notebook or script:
+   jupyter notebook
